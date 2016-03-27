@@ -1,0 +1,6 @@
+{
+  "name": "Lunch Under the Sea",
+  "tagline": "Processing-ITP-5",
+  "body": "\r\n<img src=\"https://github.com/PaulineOC/Processing-ITP-5-Lunch-Under-the-Sea/blob/master/fish.png?raw=true\" width=\"350\" height=\"300\">\r\n\r\nIt’s a fish-eat-fish world out there, and you start out on the bottom of the food chain in this game.. As a tiny white fish (controlled by your mouse), gobble your prey and if you eat enough, you grow in size. Just make sure to avoid your predators!\r\nHere’s the entire setup (I include pictures and a certain font type so they’ll be necessary for running it successfully)\r\n\r\nPS. Make it to level 4 and you’ll see a surprise.  Can you conquer the sea?\r\n\r\nLink to original post:\r\nhttps://itp.nyu.edu/classes/icm-dano-spring2014/lunch-under-the-sea/\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
